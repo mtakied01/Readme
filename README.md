@@ -28,7 +28,11 @@
 
 ## Github Stats
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mtakied01&hide_border=true&layout=compact" align="center" /></div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mtakied01&hide_border=true&layout=compact" align="center" />
+  <br/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mtakied01&" alt="mtakied01" />
+</div>
+
 
 <br/>
 
